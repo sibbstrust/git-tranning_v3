@@ -3,3 +3,4 @@ this is sample 1
 addding merging text 
 track changes 
 This is main file hot fix
+This is stash
