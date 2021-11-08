@@ -1,2 +1,4 @@
+Revert commit 1
 this is sample 1 
 addding merging text 
+track changes 
