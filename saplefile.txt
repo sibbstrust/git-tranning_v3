@@ -1,2 +1,2 @@
+Revert commit 1
 this is sample 1 
-reset commmit 1
